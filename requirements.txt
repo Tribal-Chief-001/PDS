@@ -1,4 +1,4 @@
-pickle5
+pickle
 google-api-python-client
 matplotlib
 plotly
